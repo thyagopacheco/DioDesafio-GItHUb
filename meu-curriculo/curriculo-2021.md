@@ -24,7 +24,7 @@ Telefone: (021) 35924581 - residencial (021) 972181558 - celular E-mail: thyagol
 ### INFORMÁTICA    
 Conhecimento em Pacote Office, Internet, manutenção (descktop), HTML, CSS, Wordpress, Git/Github. 
 
-Experiência Profissional  
+### Experiência Profissional  
 Empresa: DM contabilidade e assessoria  
 Cargo: auxiliar escritório  
 Período: 21/09/2018 a 31/01/2020  
